@@ -1,6 +1,5 @@
 ## 🚨 Tutorial
 
-This repository contains the corresponding tutorial available on our YouTube channel, <a href="https://www.youtube.com/@CodeScrapperOfficial/videos" target="_blank"><b>Code Scrapper</b></a>.
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -32,9 +31,6 @@ Make sure you have the following installed on your machine:
 **Clone this Project**
 
 ```bash
-git clone https://github.com/CodeScrapper1/ecommerce-nextjs-prisma.git
-cd ecommerce-nextjs-prisma
-```
 
 **Installation**
 
